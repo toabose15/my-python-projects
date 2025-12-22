@@ -1,0 +1,15 @@
+# Compilation
+
+1. Faster execution of code
+2. User needs to have compiler, not end-user
+3. Code stored in machine language
+
+1. Compilation takes time
+2. One compiler per hardware platform
+
+# Interpretation
+
+1. Run code on completion
+2. Code stored in programming language
+3. Interpreter shares resources with computer
+4. Both user & end users needs to have Interpreter
