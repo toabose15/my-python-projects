@@ -1,3 +1,5 @@
+Module 1.1.1
+
 # Compilation
 
 1. Faster execution of code
@@ -13,3 +15,10 @@
 2. Code stored in programming language
 3. Interpreter shares resources with computer
 4. Both user & end users needs to have Interpreter
+
+Module 1.1.2
+
+Guido van Rossum authored Python, named it after a BBC series Monty Python's Flying Circus. He is from Netherlands.
+Direct competitors - Pearl & Ruby
+Python is formally called CPython maintained by PSF, and is written in 'C'.
+
