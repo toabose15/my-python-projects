@@ -22,3 +22,7 @@ Guido van Rossum authored Python, named it after a BBC series Monty Python's Fly
 Direct competitors - Pearl & Ruby
 Python is formally called CPython maintained by PSF, and is written in 'C'.
 
+Module 1 complete - 90% scored on test
+
+----
+
