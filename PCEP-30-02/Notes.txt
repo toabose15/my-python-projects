@@ -26,3 +26,60 @@ Module 1 complete - 90% scored on test
 
 ----
 
+Module 2
+
+print() is an example of function. Needs paranthesis '()'. Arguments can be delivered within paranthesis. print accepts string as argument.
+
+\n : \ stands for escape, n for newline
+In print output each argument is separated by a space.
+
+Keyword argument 'end' - did not understand.
+Keyword argument 'sep' - used to put delimiters for each positional argument
+    print("My", "name", "is", "Monty", "Python.", sep="-")
+    My-name-is-Monty-Python.
+
+Positional arguments are the ones whose meaning is dictated by their position, e.g., the second argument is outputted after the first, the third is outputted after the second, etc.
+
+Keyword arguments are the ones whose meaning is not dictated by their location, but by a special word (keyword) used to identify them.
+
+The end and sep parameters can be used for formatting the output of the print() function. The sep parameter specifies the separator between the outputted arguments, e.g., print("H", "E", "L", "L", "O", sep="-"), whereas the end parameter specifies what to print at the end of the print statement.
+
+print(0o123) > This is octal, prefix zero and O.
+print(0x123) > This is hexadecimal, zero and x.
+
+Floating numbers - 4.0  3E8 (means 3 x 10 to the power 8)
+
+For printing double quotes:
+print("I like \"Monty Python\"") OR print('I like "Monty Python"')
+
+In literal print if one number is float the result is float too. Also 2 to the power 3 is written as 2 ** 3. Example:
+    print(2 ** 3)
+    8
+
+// is used to round off to the nearest number. Example:
+    print(6 // 4)
+    print(6. // -4)
+
+    1
+    -2.0
+
+    The rounding goes toward the lesser integer value, and the lesser integer value is -2, hence: -2 and -2.0
+
+% used for remainders
+
+Learnt about operators, priorities, etc.
+
+Octal numbers
+
+If an integer number is preceded by an 0O or 0o prefix (zero-o), it will be treated as an octal value. This means that the number must contain digits taken from the [0..7] range only. 0o123 is an octal number with a (decimal) value equal to 83.
+
+hexadecimal numbers will have 0x
+print(0x123) is 291
+
+
+You can't use keywords in a variable name.
+
++375
+-50
++15
+-1
